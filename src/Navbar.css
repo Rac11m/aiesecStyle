@@ -1,0 +1,21 @@
+.nuv {
+   padding: 2rem;
+   box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
+}
+
+.Bould {
+   font-weight: bolder;
+   font-size: 18px;
+}
+.spoun{
+   font-size: 18px;
+   color: black;
+}
+.padd {
+   padding-right: 3rem;
+   padding: 1.5rem;
+}
+
+.firstplaceholder::placeholder {
+   font-size: 0.8rem;
+}

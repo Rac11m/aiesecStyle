@@ -1,0 +1,51 @@
+.global {
+    display: inline;
+    float: left;
+    color: #2C3D4F;
+    font-size: 64px;
+    font-weight: 400;
+    text-align: center;
+    margin-left: 50%;
+    cursor: pointer;
+}
+.regional {
+    display: inline;
+    float: right;
+    color: #2C3D4F;
+    font-size: 64px;
+    font-weight: 400;
+    text-align: center;
+    margin-right: 35%;
+    cursor: pointer;
+}
+.next {
+    font-size: 64px;
+    font-weight: 400;
+    color: #2C3D4F;
+    display: inline-flex;
+    float: right;
+    margin-top: 1rem;
+    margin-right: 20%;
+    opacity: 53%;
+    cursor: pointer;
+}
+
+.prev {
+    font-size: 64px;
+    font-weight: 400;
+    color: #2C3D4F;
+    display: inline-flex;
+    float: left;
+    margin-top: 1rem;
+    margin-left: 35%;
+    opacity: 53%;
+    cursor: pointer;
+}
+
+.cropped {
+
+    width: 100px; /* width of container */
+    height: 100px; /* height of container */
+    overflow: hidden;
+    border: 5px solid black;
+}

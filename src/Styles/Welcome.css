@@ -1,0 +1,56 @@
+.main-header {
+    font-size: 48px;
+    color: #190A27;
+}
+
+.text-style {
+    font-size: 45px;
+    margin-top: 3rem;
+    letter-spacing: 2.5px;
+    line-height: 1.7;
+    color: #190A27;
+    
+}
+.rectangle {
+    margin-top: 5rem;
+    margin-right: 6rem;
+    width: 11%;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.style-image {
+    margin-top: 5rem;
+    padding-right: 3rem;
+    padding-left: 0;
+
+}
+.padding-colOne {
+    padding-right: 0;
+    padding: 1.5rem;
+    margin-top: 6rem;
+    padding-left: 3rem;
+}
+.explorer {
+    padding-right: 4rem;
+    width: 100%;
+    
+}
+.exp-btn  {
+    background-color: white;
+    font-size: 29px;
+    
+}
+.btn-padding-exp {
+    padding: 0.5rem 2rem 1rem 2rem;
+}
+.place-exp {
+    font-size: 25px;
+}
+.shadow {
+    border-style: solid;
+    border-radius: 15px;
+}

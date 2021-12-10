@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="161.493" height="121.409" viewBox="0 0 161.493 121.409">
+  <g id="airplane" transform="translate(-11.878 58.578) rotate(-30)">
+    <path id="Path_1768" data-name="Path 1768" d="M158,30.445a15.291,15.291,0,0,1-14.98,18.348H57.783L10.939,33.055,0,0H12.3l12.75,18.216H63.072l.064-.039,6.6,10.492H103.35L94.306,18.287l.08-.071h41.4V25.3a5.148,5.148,0,0,0,5.148,5.148Z" transform="translate(0 23.757)" fill="#00acea"/>
+    <path id="Path_1769" data-name="Path 1769" d="M22.212,12.229H5.148A5.148,5.148,0,0,1,0,7.081V0H7.233a15.289,15.289,0,0,1,14.98,12.229Z" transform="translate(135.783 41.973)" fill="#fedb41"/>
+    <path id="Path_1770" data-name="Path 1770" d="M57.548,42.044l9.044,10.382H32.977l-6.6-10.492L0,0H20.935Z" transform="translate(36.758 0)" fill="#00efd1"/>
+  </g>
+</svg>

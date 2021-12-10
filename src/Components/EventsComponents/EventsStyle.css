@@ -1,0 +1,29 @@
+.events-form-control {
+  padding: 15px 0 15px 15px;
+  background-color: rgba(128, 128, 128, 0.27);
+  border: 2px solid white;
+  border-radius: 10px;
+}
+.events-form-control::placeholder {
+  color: white;
+  opacity: 1;
+  font-size: 85%;
+}
+.events-form-control::placeholder {
+  color: white;
+  font-size: 85%;
+  opacity: 1;
+}
+.events-form-control::-ms-input-placeholder {
+  color: white;
+  font-size: 85%;
+}
+.events-form-search {
+  background-color: #477dee;
+  padding: 15px 30px;
+}
+.events-caption h3 {
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: regular;
+}

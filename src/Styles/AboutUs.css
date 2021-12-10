@@ -1,0 +1,26 @@
+.main-title {
+    font-size: 71px;
+    text-align: center;
+    margin-top: 3rem;
+}
+.img-line {
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     color: #0090FF;
+
+     
+}
+.paraghrap-about {
+   color: #2C3D4F;
+   font-size: 44px;
+
+}
+.read-more {
+    color: #477DEE;
+    text-decoration: none;
+    font-size: 25px;
+    margin-right: 9rem;
+    text-align: left;
+}
+

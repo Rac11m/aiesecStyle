@@ -1,0 +1,22 @@
+.Footer {
+    padding:"5rem 5rem 0 5rem";
+    text-align: 'center';
+}
+.headers {
+    font-size: 46px;
+    color: #477DEE;
+    letter-spacing: 3px;
+    margin-bottom: 3rem;
+}
+p {
+    font-size: 27px;
+    line-height: '3.5';
+    color: #676767;
+}
+.align {
+    text-align: left;
+}
+.social {
+    margin-top: 3rem;
+    
+}

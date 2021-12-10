@@ -1,0 +1,16 @@
+.main-title {
+    font-size: 71px;
+    text-align: center;
+    margin-top: 3rem;
+}
+.img-line {
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+     color: #0090FF;
+     margin-bottom: 7rem;
+     
+}
+.thirdImage {
+    height: 90%;
+}

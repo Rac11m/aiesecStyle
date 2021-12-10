@@ -1,0 +1,32 @@
+.our {
+    text-align: left;
+    margin-left: 3rem;
+    line-height: 1.9;
+
+}
+.span-col {
+    color: #2D86CF;
+}
+.titl {
+    font-size: 60px;
+    color: black;
+}
+.sub-titl {
+    font-size: 35px;
+    font-weight: 500;
+    color: black;
+}
+.para {
+    font-size: 25px;
+    color: black;
+}
+.par {
+    font-size: 32px;
+    color: black;
+    margin: 1rem auto;
+}
+.par-spe {
+    font-size: 32px;
+    color: black;
+    font-weight: 600;
+}

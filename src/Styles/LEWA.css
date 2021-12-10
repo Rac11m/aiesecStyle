@@ -1,0 +1,17 @@
+.colTwo {
+    position: relative;
+    left: -6rem;
+    line-height : 2.2;
+     margin-top: 2rem;
+}
+h2 {
+    position: relative;
+    left: 0.5rem;
+    font-size: 46px;
+    color: #477DEE;
+}
+p {
+    font-size: 32px;
+    color: black;
+    font-weight: 500;
+}

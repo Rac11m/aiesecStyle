@@ -1,0 +1,21 @@
+
+.text-style {
+    font-size: 35px;
+    margin-top: 3rem;
+    letter-spacing: 3px;
+    line-height: 1.9;
+}
+.rectangle {
+    margin-top: 7.5rem;
+    margin-right: 5rem;
+    width: 10%;
+}
+.container-fluid {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.padi {
+    padding-right: 3rem;
+}

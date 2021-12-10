@@ -1,0 +1,62 @@
+.card-style {
+    width: 18rem;
+    border-radius: 20px;
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
+    padding: 30px;
+    text-align: center;
+}
+
+.btn-full-1 {
+    position: relative;
+    height: 60%;
+    width: 170%;
+    top: 30px;
+    left: -45px;
+    border-radius: 15px;
+}
+.btn-full-2 {
+    position: relative;
+    height: 60%;
+    width: 220%;
+    top: 30px;
+    left: -55px;
+    border-radius: 15px;
+}
+.btn-full-3 {
+    position: relative;
+    height: 60%;
+    width: 222%;
+    top: 30px;
+    left: -60px;
+    border-radius: 15px;
+}
+.btn-full-4 {
+    position: relative;
+    height: 60%;
+    width: 225%;
+    top: 30px;
+    left: -60px;
+    border-radius: 15px;
+}
+.btn-full-5 {
+    position: relative;
+    height: 60%;
+    width: 225%;
+    top: 30px;
+    left: -60px;
+    border-radius: 15px;
+}
+.btn-full-6 {
+    position: relative;
+    height: 60%;
+    width: 223%;
+    top: 30px;
+    left: -60px;
+    border-radius: 15px;
+}
+
+.offimg {
+    position: relative;
+    right: -280px;
+        
+}

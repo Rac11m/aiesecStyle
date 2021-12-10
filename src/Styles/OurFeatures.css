@@ -1,0 +1,67 @@
+.container-dis {
+    margin-left: 2rem;
+}
+
+.main-h5 {
+    font-size: 32px;
+    padding-left: 3rem; 
+    color: #477DEE;
+}
+.main-h2 {
+    font-size: 38px;
+    line-height: 1.9;
+    padding-left: 2rem; 
+}
+.stats {
+    margin-top: 1rem;
+    color: #2C3D4F;
+}
+.sub-stat {
+    color: #2C3D4F;
+    opacity: 84%;
+}
+.stats-div {
+    padding-right: 10rem;
+}
+
+.Col-padding {
+    margin-left: 15rem;
+     padding-left : 6rem;
+      padding-right: 6rem;
+}
+.back {
+    left: 70px;
+    bottom: 180px;
+    position: relative;
+    padding:1em;
+  width: 60%;
+  height: 11%;
+  background-color:white;
+    opacity: 30%;
+  display:flex;
+  align-items :center;
+  justify-content:center;
+  border-radius: 10px;
+  
+}
+
+.back-2 {
+    left: 71px;
+    bottom: 209px;
+    position: relative;
+    padding:1em;
+  width: 63%;
+  height: 11%;
+  background-color:white;
+    opacity: 30%;
+  display:flex;
+  align-items :center;
+  justify-content:center;
+  border-radius: 10px;
+}
+
+.image-title {
+    color: black;
+    opacity: 100%;
+    font-size: 1.4rem;
+}

@@ -1,0 +1,41 @@
+.nuv {
+   padding: 2rem;
+   box-shadow: 0 2px 3px 0 rgba(0,0,0,.2);
+}
+
+.Bould {
+   font-weight: bolder;
+   font-size: 23px;
+}
+.spoun{
+   font-size: 23px;
+   color: black;
+   opacity: 78%;
+}
+.padd {
+   padding-right: 3rem;
+   padding: 1.5rem;
+}
+
+.firstplaceholder::placeholder {
+   font-size: 0.8rem;
+}
+
+.nav-title {
+   font-size: 20px;
+   opacity: 100%;
+  
+}
+.read-me {
+   font-size: 21px;
+   color: #477DEE;
+}
+.arrow {
+   margin-top: 0.1rem;
+}
+.apply {
+   margin-left: 1rem;
+   font-size: 19px;
+   padding-bottom: 1rem;
+   padding-top: 1rem;
+}

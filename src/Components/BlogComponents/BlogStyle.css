@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+* {
+  font-family: "Poppins", sans-serif;
+} 
+.blogBigImg {
+  margin: 40px;
+}
+.blog-home-icons {
+  box-sizing: border-box;
+  width: 4.5%;
+  margin: 4% 2.5% 0;
+}
+.half-square-2-m {
+  width: 9.95%;
+  position: relative;
+  right: 2.2rem;
+  top: 2.2rem;
+}
+.half-square-2-r {
+  width: 12.95%;
+  position: relative;
+  right: 2rem;
+  top: 2rem;
+}
+.half-square-2-e {
+  width: 6.5%;
+  position: relative;
+  right: 2.2rem;
+  top: 2.2rem;
+}
+.half-square-2-s {
+  width: 4.5%;
+  position: relative;
+  right: 1.2rem;
+  top: 4.5rem;
+}
+.aboveResent {
+  width: 200%;
+}

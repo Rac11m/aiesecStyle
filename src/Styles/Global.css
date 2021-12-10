@@ -1,0 +1,86 @@
+.global-title {
+    font-size: 59px;
+    color: black;
+    margin-bottom: 7rem;
+}
+.col-text-right {
+    margin-left: 5rem;
+    padding-right: 7rem;
+    min-width: 42%;
+}
+.col-text-left {
+    margin-right: 2rem;
+    padding-left: 5rem;
+    min-width: 42%;
+}
+.become-h3-right {
+    color: #2C3D4F;
+    text-align: left;
+}
+.become-h3-left {
+    color: #2C3D4F;
+    text-align: left;
+}
+.become-text-right {
+    font-size: 40px;
+    text-align: justify;
+    text-justify: inter-word;
+    color: #2C3D4F;
+}
+.become-text-left {
+    font-size: 40px;
+    text-align: justify;
+    text-justify: inter-word;
+    color: #2C3D4F;
+}
+.Hager {
+    color: #777777;
+    text-align: left;
+    font-size: 26px;
+
+}
+.learn-more {   
+    position: relative;
+    top: 2rem;
+    color: #477DEE;
+    text-decoration: none;
+    font-size: 25px;
+    margin-right: 30.8rem;
+}
+.learn-more-left {
+    position: relative;
+    top: 1.5rem;
+    right: -29rem;
+    color: #477DEE;
+    text-decoration: none;
+    font-size: 25px;
+    margin-right: 30.8rem;
+}
+
+.arrowB-position {
+    position: relative;
+    top: 0rem;
+    right: -14rem;
+    cursor: pointer;
+}
+
+.arrowF-position {
+    position: relative;
+    top: 0rem;
+    right: -15rem;
+    cursor: pointer;
+}
+.arrowBL-position {
+    position: relative;
+    top: 0rem;
+    left: -16rem;
+    cursor: pointer;
+}
+
+.arrowFL-position {
+    position: relative;
+    top: 0rem;
+    left: -15rem;
+    cursor: pointer;
+}
+
