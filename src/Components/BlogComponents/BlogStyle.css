@@ -1,13 +1,24 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
 * {
   font-family: "Poppins", sans-serif;
-} 
+}
+
+.Gbuble {
+      position: absolute;
+      left: -25%;
+      top: 45%;
+}
+.Bbuble {
+  position: absolute;
+  right: 0%;
+}
+
 .blogBigImg {
   margin: 40px;
 }
 .blog-home-icons {
   box-sizing: border-box;
-  width: 4.5%;
+  width: 3.5%;
   margin: 4% 2.5% 0;
 }
 .half-square-2-m {
@@ -36,4 +47,21 @@
 }
 .aboveResent {
   width: 200%;
+}
+
+.main-div {
+  overflow: hidden; 
+  padding-top: 0;
+}
+.main-div h1 {
+  color: #000;
+  font-size: 70px;
+  margin-bottom: 5rem;
+  font-weight: 300;  
+}
+.main-div h2 {
+  color: black;
+  margin-bottom: 5rem;
+  font-size: 53px;
+  font-weight: 300;
 }

@@ -1,7 +1,7 @@
 import Footer from "../Components/Footer";
 import LEWA from "../Components/LEWA";
 import NavBar from "../Components/Navbar";
-import OurEvent from "../Components/OurEvent";
+import OurEvent from "../Components/BlogComponents/OurEventsList";
 import OurPartner from "../Components/OurPartner";
 
 const OurBlog0 = () => {

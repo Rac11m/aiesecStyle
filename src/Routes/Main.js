@@ -19,9 +19,9 @@ const Main = () => {
       <Aboutus />
       <OurProduct />
      <OurOur />
-       <OurPartner />
-    {/*  <LEWA />
-      <Footer />*/}
+     {/*  <OurPartner /> */} 
+      <LEWA />
+      <Footer />
     </>
   );
 };

@@ -1,3 +1,6 @@
+import Footer from "../Components/Footer";
+import LEWA from "../Components/LEWA";
+import NavBar from "../Components/Navbar"; 
 import OfficesW from "../Components/OfficesComponents/OfficesW";
 import OurOffices from "../Components/OfficesComponents/OurOffices";
 import underline4 from "../Images/officesImages/underline4.svg";
@@ -5,6 +8,7 @@ import underline4 from "../Images/officesImages/underline4.svg";
 const Offices = () => {
   return (
     <>
+      <NavBar />
       <OfficesW />
       <OurOffices />
       <h1 style={{ textAlign: "center" }}>Want to join</h1>
@@ -18,6 +22,8 @@ const Offices = () => {
           bottom: "1.1em"
         }}
       />
+    <LEWA/>
+    <Footer />
     </>
   );
 };

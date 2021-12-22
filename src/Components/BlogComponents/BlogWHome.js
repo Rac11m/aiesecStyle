@@ -9,6 +9,8 @@ import blogBigImg from "../../Images/blogImages/blogBigImg.svg";
 import blogImg1 from "../../Images/blogImages/blogImg1.svg";
 import blogImg2 from "../../Images/blogImages/blogImg2.svg";
 import blogImg3 from "../../Images/blogImages/blogImg3.svg";
+import GreenBuble from "../../Images/GreenBuble.svg";
+import BlueBuble from "../../Images/BlueBuble.svg";
 import "./BlogStyle.css";
 
 const BlogWhome = (props) => {
@@ -41,42 +43,79 @@ const BlogWhome = (props) => {
   ];
 
   return (
-    <div>
+    <div className="main-div">
+      <img className="Gbuble" src={GreenBuble} alt="bubleG"/>
+      <img className="Bbuble" src={BlueBuble} alt="bubleB"/>
       <div
         style={{
           textAlign: "center",
-          padding: "20% 0"
+          padding: "20% 0",
+          paddingTop: "7%"
         }}
       >
         <h1>Our Blog</h1>
         <h2>Get ready for the future with aiesec.</h2>
         <Alert
           style={{
-            width: "50%",
+            borderRadius: "15px",
+            position: "relative",
+            left: "60px",
+            width: "830px",
+       //     height: "120px",
             margin: "auto",
             backgroundColor: "white",
             border: "none",
-            filter: "drop-shadow(0px 2px 4px #707070)"
+            filter: "drop-shadow(0px 2px 4px #707070)",
+            padding: "2.5rem",
           }}
         >
           <Form className="d-flex">
             <Form.Control
               type="search"
-              placeholder="enjoy with our blogs & achievements"
+              placeholder="    enjoy with our blogs & achievements"
               className="me-2"
               aria-label="Search"
+              style={{
+                verticalAlign: "center",
+                height:"60px",
+                borderStyle: "hidden",
+                borderRadius: "6px",
+             //   margin: "1rem 1rem auto 1rem",
+                background: "rgba(72, 72, 72, 0.07)",
+              }}
             />
-            <Button style={{ backgroundColor: "#477DEE" }}>Search</Button>
+            <Button style={{ 
+              backgroundColor: "#477DEE",
+              borderStyle: "hidden",
+              borderRadius: "6px",
+              height:"60px",
+              width: "12rem",
+              marginLeft: "1rem"
+            //  margin: "1rem 1rem auto 1rem"
+            }}
+           >Search</Button>
           </Form>
         </Alert>
-        <div style={{ textAlign: "center" }}>
-          <img className="blog-home-icons" alt="Icons" src={facebookIcon} />
-          <img className="blog-home-icons" alt="Icons" src={youtubeIcon} />
-          <img className="blog-home-icons" alt="Icons" src={instagramIcon} />
-          <img className="blog-home-icons" alt="Icons" src={linkedinIcon} />
+        <div style={{ textAlign: "center", marginLeft: "8rem" }}>
+         <a href="https://facebook.com">
+             <img className="blog-home-icons" alt="Icons" src={facebookIcon} />
+         </a>
+         
+         <a href="https://facebook.com">
+             <img className="blog-home-icons" alt="Icons" src={youtubeIcon} />
+         </a>
+         
+         <a href="https://facebook.com">
+             <img className="blog-home-icons" alt="Icons" src={instagramIcon} />
+         </a>
+         
+         <a href="https://facebook.com">
+             <img className="blog-home-icons" alt="Icons" src={linkedinIcon} />
+         </a>
+         
         </div>
       </div>
-      <div>
+      <div style={{marginTop: "5rem"}}>
         <Row>
           <Col md>
             <BlogWItem

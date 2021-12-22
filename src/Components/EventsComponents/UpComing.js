@@ -6,6 +6,7 @@ import upComing2 from "../../Images/upComingImages/upComing2.png";
 import upComing3 from "../../Images/upComingImages/upComing3.png";
 import upComing4 from "../../Images/upComingImages/upComing4.png";
 import underline4 from "../../Images/officesImages/underline4.svg";
+import "../EventsComponents/EventsStyle.css";
 
 const UpComing = () => {
   const ourEventsDatas = [
@@ -78,18 +79,18 @@ const UpComing = () => {
         />
       </div>
       <Container>
-        <Nav justify variant="pills" defaultActiveKey="/home">
+        <Nav justify className="nav-pills" defaultActiveKey="/home">
           <Nav.Item>
-            <Nav.Link eventKey="link-0">All</Nav.Link>
+            <Nav.Link className="nav-link" eventKey="link-0">All</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link eventKey="link-1">Category 1</Nav.Link>
+            <Nav.Link className="nav-link" eventKey="link-1">Category 1</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link eventKey="link-2">Category 2</Nav.Link>
+            <Nav.Link className="nav-link" eventKey="link-2">Category 2</Nav.Link>
           </Nav.Item>
           <Nav.Item>
-            <Nav.Link eventKey="link-3">Category 3</Nav.Link>
+            <Nav.Link className="nav-link" eventKey="link-3">Category 3</Nav.Link>
           </Nav.Item>
         </Nav>
       </Container>
