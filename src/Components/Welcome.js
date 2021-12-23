@@ -34,7 +34,7 @@ const Welcome = () => {
                  
                      { show === 1 && 
                      <div className="text-welcome">
-                         <h1 className="main-header">m3a AIESEC | YOU ARE THE CHANGE !</h1>
+                         <h1 id="top" className="main-header">m3a AIESEC | YOU ARE THE CHANGE !</h1>
                          <img src={line} width="33%" alt ="line" />
                          <p className="text-style">Develop yourself through a cross-cultural experience abroad.</p>
                     </div>
