@@ -1,7 +1,11 @@
-.main-title {
-    color: black;
+.partner-heading {
+    text-align: center;
+    padding-bottom: 8rem;
 }
-
+.partner-heading h2{
+    color: black;   
+    font-size: 71px;
+}
 .global {
     display: inline;
     float: left;
@@ -48,8 +52,13 @@
 
 .cropped {
 
-    width: 100px; /* width of container */
+     width: 100px; /*width of container */
     height: 100px; /* height of container */
-    overflow: hidden;
     border: 5px solid black;
+    overflow: hidden;
+}  
+.our-partner-container{
+    width: 80vw;
+    padding-left: 5vw;
+    margin-bottom: 10rem;
 }
