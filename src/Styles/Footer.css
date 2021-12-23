@@ -16,12 +16,24 @@
 }
 .align {
     text-align: left;
+  
 }
 .social {
     margin-top: 11rem;
     
 }
-
+.back-to-top-button{
+    height: 100px;
+    width: 100px;
+    background-color: #477DEE;
+    padding: 0;
+    float: right;
+}
+.back-to-top-button img{
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
 p.copyright {
     font-size: 25px;
     margin-top: 1rem;
